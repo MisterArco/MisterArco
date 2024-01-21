@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Engineer
 ----------------------
 
-Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering Docker, Terraform, and GCP through Zoomcamp. Committed to continuous learning and innovation.
+Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering Docker, Terraform, and GCP through Data Engineering Zoomcamp. Committed to continuous learning and innovation.
 
 * 🌍  I'm based in Bataan, Philippines
 * ✉️  You can contact me at [jpbasilio26@gmail.com](mailto:jpbasilio26@gmail.com)
