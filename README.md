@@ -8,8 +8,8 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 
 * 🌍  I'm based in Bataan, Philippines
 * ✉️  You can contact me at [jpbasilio26@gmail.com](mailto:jpbasilio26@gmail.com)
-* 🧠  I'm currently learning Mage.AI
-* 🤝  I'm open to collaborating on Building ETL Pipelines
+* 🧠  I'm currently learning Mage, Big Query, and Spark
+* 🤝  I'm open to collaborating on working with different data engineering projects
 * ⚡  I love gaming and listening to music
 
 ### Tech Stack
@@ -24,7 +24,7 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter)
 
 #### Cloud Services
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=google-cloud&logoColor=black)
 
 #### CI/CD
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
@@ -35,6 +35,8 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) 
 
+#### Data Engineering
+![Mage](https://img.shields.io/badge/Mage-white?style=for-the-badge&logo=mage)
 
 ### Socials
 
