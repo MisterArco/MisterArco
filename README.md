@@ -37,6 +37,7 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 
 #### Data Engineering
 ![Mage](https://img.shields.io/badge/Mage-white?style=for-the-badge&logo=mage)
+![dlt](https://img.shields.io/badge/dlt-white?style=for-the-badge&logo=dlt)
 
 ### Socials
 
