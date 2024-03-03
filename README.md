@@ -25,7 +25,6 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 ![Looker](https://img.shields.io/badge/Looker-white?style=for-the-badge&logo=looker)
 
 #### Cloud Services
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=google-cloud&logoColor=black)
 ![Google Cloud Storage](https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=google-cloud-storage)
 ![Google BigQuery](https://img.shields.io/badge/GoogleBigQuery-white?style=for-the-badge&logo=google-bigquery)
 
