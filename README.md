@@ -22,9 +22,12 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 ![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiBzdHJva2U9IiM3NzciIGZpbGwtb3BhY2l0eT0iLjgiPgo8cGF0aCBmaWxsPSIjRkZGIiBkPSJtNjMsMWE2Myw2MyAwIDEsMCAyLDB6bTAsMTRhNDksNDkgMCAxLDAgMiwwem0wLDE0YTM1LDM1IDAgMSwwCjIsMHptMCwxNGEyMSwyMSAwIDEsMCAyLDB6bTAsMTRhNyw3IDAgMSwwIDIsMHptNjQsN0gxbTEwOC00NS05MCw5MG05MCwwLTkwLTkwbTQ1LTE4djEyNiIvPgo8cGF0aCBmaWxsPSIjRjYwIiBkPSJtNTAsOC0yMCwxMCA2OCw5MiAxMC0xMEw2NCw2NHoiLz4KPHBhdGggZmlsbD0iI0ZDMCIgZD0ibTE3LDUwdjI4TDY0LDY0eiIvPgo8cGF0aCBmaWxsPSIjN0Y3IiBkPSJtNjQsNjQgNiwzNUg1OHoiLz4KPHBhdGggZmlsbD0iI0NGMyIgZD0ibTY0LDY0IDEzLTQwIDksNXoiLz4KPHBhdGggZmlsbD0iIzA0RiIgZD0ibTY0LDY0IDE0LTYgMSw0emwtMjYsMTMgMyw0eiIvPgo8L3N2Zz4=&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter)
+![Looker](https://img.shields.io/badge/Looker-white?style=for-the-badge&logo=looker)
 
 #### Cloud Services
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=google-cloud&logoColor=black)
+![Google Cloud Storage](https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=google-cloud-storage)
+![Google BigQuery](https://img.shields.io/badge/GoogleBigQuery-white?style=for-the-badge&logo=google-bigquery)
 
 #### CI/CD
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
