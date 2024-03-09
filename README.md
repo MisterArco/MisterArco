@@ -4,11 +4,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is John Paul Basilio
 =========================================================================================================================================
 
-Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering Docker, Terraform, and GCP through Data Engineering Zoomcamp. Committed to continuous learning and innovation.
+Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering Spark and Kafka through Data Engineering Zoomcamp. Committed to continuous learning and innovation.
 
 * 🌍  I'm based in Bataan, Philippines
 * ✉️  You can contact me at [jpbasilio26@gmail.com](mailto:jpbasilio26@gmail.com)
-* 🧠  I'm currently learning Mage, Big Query, and Spark
+* 🧠  I'm currently learning Mage, Spark, and Kafka
 * 🤝  I'm open to collaborating on working with different data engineering projects
 * ⚡  I love gaming and listening to music
 
