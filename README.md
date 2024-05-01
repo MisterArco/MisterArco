@@ -8,7 +8,7 @@ Coding enthusiast since 2023, proficient in Python and SQL. Currently mastering 
 
 * 🌍  I'm based in Bataan, Philippines
 * ✉️  You can contact me at [jpbasilio26@gmail.com](mailto:jpbasilio26@gmail.com)
-* 🧠  I'm currently learning Mage, Spark, and Kafka
+* 🧠  I'm currently learning Kafka
 * 🤝  I'm open to collaborating on working with different data engineering projects
 * ⚡  I love gaming and listening to music
 
